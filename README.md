@@ -26,6 +26,8 @@ This Dashboard was created for the Challenge Project. <br>
 
 ![Electronics Dashboard2](https://github.com/VizCreation/Onyx-DataSet-Challenge-Electronic-Products-Rating/assets/157504708/9b67517d-28d1-4b1a-85b1-d5d93f019845)
 
+![Dashboard Table Scroll](https://github.com/VizCreation/Onyx-DataSet-Challenge-Electronic-Products-Rating/assets/157504708/a7c6fe09-4446-44c3-bef7-e5188c023e4e)
+
 
 ## Findings/Conclusion
 1. The top 3 brands with the highest ratings of 5 are Kicker, SVS and Clarity-Telecom. However, upon closer analysis the review count for these brands are quite low at 3,1 and 11 respectively. The low rating count is not a good reflection of how good a product is. Thus, I have created another horizontal bar chart that shows the 'Brand Ranking by Sum of Ratings'. This will gives a better indication of how popular a product is. Based on this Chart, the top 3 brands with highest ratings are Logitech, Sony and Microsoft.
