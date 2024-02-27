@@ -38,4 +38,4 @@ Users can use the slicers at the left column to choose their desired brand(s) th
     
 2. Based on the 2 line graphs 'Rating by Color' and 'Rating by Dimension', it seems like the product features such as Colors and Dimension doesn't have much influence on the ratings as regardless of the features the ratings range does not differ too much from 3.5 - 5.
      
-3. Usually for higher product ratings, customers will tend to recommend others to purchase the products. Hence, it is crucial for companies to try to secure good ratings from customers.
+3. Usually for higher product ratings, customers tend to recommend others to purchase the products. Hence, it is crucial for companies to try to secure good ratings from customers.
