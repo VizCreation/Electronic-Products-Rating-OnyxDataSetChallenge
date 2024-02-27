@@ -28,10 +28,9 @@ This Dashboard was created for the Challenge Project. <br>
 
 
 ## Findings/Conclusion
-1. Most subscribers (69%) are willing to pay for the courses, compared to 31% who are taking only the free courses. Hence, it seems that this business model is sustainable as there are moajority of people paying than taking free courses and the earnings are sufficient to cover the course of running the site.
-
-2. * Currently there are only 4 categories of courses (Web Development, Graphic Design, Business Finance and Musical Instrument), Udemy may consider expanding the categories to include others such as language, personal improvement, grooming etc.
-   * Also, majority of subscribers (71%)  are interested in Web development courses, hence Udemy may consider including more such courses or add on intermediate or higher level web development courses. 
-   * Lastly, based on the bottom middle bar chart, 61% of the total sales come from the courses that charge between $151-$200. It shows that people are willing to pay for the courses as long as the content is of their interest and beneficial to them. <br>
-
-3. Based on the 'Course Ranking by Sales' bar chart (bottom rightmost chart), Web Development and Musical lesson on Piano are one of the more sellable courses.
+1. *The top 3 brands with the highest ratings of 5 are Kicker, SVS and Clarity-Telecom. However, upon closer analysis the review count for these brands are quite low at 3,1 and 11 respectively. Hence, The low rating count is not a good reflection of how good a product is.
+    * I have created another horizontal bar chart that shows the 'Brand Ranking by Sum of Ratings'. This will gives a better indication of how popular a product is. Based on this Chart, the top 3 brands with highest ratings are Logitech, Sony and Microsoft.
+    
+2. Based on the 2 line graphs 'Rating by Color' and 'Rating by Dimension', it seems like the product features such as Colors and Dimension doesn't have much influence on the ratings as regardless of the features, the ratings range from 3.5 - 5.
+     
+3. Usually for higher product ratings, customers will tend to recommend others to purchase the products. Hence, it is crucial for companies to try to secure good ratings from customers.
