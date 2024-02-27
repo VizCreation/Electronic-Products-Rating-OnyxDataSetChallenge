@@ -28,8 +28,7 @@ This Dashboard was created for the Challenge Project. <br>
 
 
 ## Findings/Conclusion
-1. *The top 3 brands with the highest ratings of 5 are Kicker, SVS and Clarity-Telecom. However, upon closer analysis the review count for these brands are quite low at 3,1 and 11 respectively. Hence, The low rating count is not a good reflection of how good a product is.
-    * I have created another horizontal bar chart that shows the 'Brand Ranking by Sum of Ratings'. This will gives a better indication of how popular a product is. Based on this Chart, the top 3 brands with highest ratings are Logitech, Sony and Microsoft.
+1. The top 3 brands with the highest ratings of 5 are Kicker, SVS and Clarity-Telecom. However, upon closer analysis the review count for these brands are quite low at 3,1 and 11 respectively. The low rating count is not a good reflection of how good a product is. Thus, I have created another horizontal bar chart that shows the 'Brand Ranking by Sum of Ratings'. This will gives a better indication of how popular a product is. Based on this Chart, the top 3 brands with highest ratings are Logitech, Sony and Microsoft.
     
 2. Based on the 2 line graphs 'Rating by Color' and 'Rating by Dimension', it seems like the product features such as Colors and Dimension doesn't have much influence on the ratings as regardless of the features, the ratings range from 3.5 - 5.
      
