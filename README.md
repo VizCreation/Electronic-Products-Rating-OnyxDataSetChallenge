@@ -26,6 +26,7 @@ This Dashboard was created for the Challenge Project. <br>
 
 ![Electronics Dashboard2](https://github.com/VizCreation/Onyx-DataSet-Challenge-Electronic-Products-Rating/assets/157504708/9b67517d-28d1-4b1a-85b1-d5d93f019845)
 
+**Table Scroll Bar**
 ![Dashboard Table Scroll](https://github.com/VizCreation/Onyx-DataSet-Challenge-Electronic-Products-Rating/assets/157504708/a7c6fe09-4446-44c3-bef7-e5188c023e4e)
 
 
