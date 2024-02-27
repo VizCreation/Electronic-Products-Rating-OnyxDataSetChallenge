@@ -8,7 +8,7 @@ This is a Dataset challenge held by OnyxData In Feb 2024. The aim of the challen
 
 ## Data Sourcing
 The data set is given by Onyx Data for the Data Challenge.
-Link: ([https://onyxdata.co.uk/data-dna-dataset-challenge/datadna-dataset-archive/](https://github.com/VizCreation/Onyx-DataSet-Challenge-Electronic-Products-Rating/files/14420272/Onyx.Data.-DataDNA.Dataset.Challenge.-.Electronics.Product.Data.Ratings.-.February.2024.xlsx))
+Link: (https://github.com/VizCreation/Onyx-DataSet-Challenge-Electronic-Products-Rating/files/14420272/Onyx.Data.-DataDNA.Dataset.Challenge.-.Electronics.Product.Data.Ratings.-.February.2024.xlsx)
 
 
 ## Data Transformation/Cleaning
