@@ -21,7 +21,7 @@ Data was cleaned and transformed with the Power Query Editor in Power BI. Some o
 
 This Dashboard was created for the Challenge Project. <br>
 Users can use the slicers at the left column to choose their desired brand(s) that they wish to analyse. Else by default, the dashboard selects all brands for analysis. This Dashboard also includes a table with the details of the products, ratings and text reviews. Users can scroll through the table if they wish to drill down to find out more about the written reviews.
-
+<br>
 **Main Dashboard**
 ![Electronics Dashboard Main](https://github.com/VizCreation/Onyx-DataSet-Challenge-Electronic-Products-Rating/assets/157504708/b6ecd747-bb65-4d96-a830-02f8dea414f7)
 
